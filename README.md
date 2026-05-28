@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Catarucci <img align="right" src="https://komarev.com/ghpvc/?username=MatheusCatarucci&label=Visitas%20ao%20Perfil&color=7aa2f7&style=flat-square" alt="Contador de Visitas" />
+# 👨‍💻 Matheus Catarucci 
 
 **`Desenvolvedor FullStack`**
 
