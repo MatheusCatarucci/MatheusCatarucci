@@ -1,4 +1,4 @@
-# 👨‍💻 Matheus Catarucci
+# 👨‍💻 Matheus Catarucci <img align="right" src="https://komarev.com/ghpvc/?username=MatheusCatarucci&label=Visitas%20ao%20Perfil&color=7aa2f7&style=flat-square" alt="Contador de Visitas" />
 
 **`Desenvolvedor FullStack`**
 
@@ -30,6 +30,11 @@ Me chamo Matheus Catarucci, tenho 17 anos e sou natural de Jundiaí-SP. Concluí
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheuscatarucci&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" style="padding-right: 10px;" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuscatarucci&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusCatarucci&theme=tokyonight" alt="GitHub Streak Stats" style="padding-right: 10px;" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusCatarucci&theme=tokyonight" alt="Top Langs" />
+</p>
+
+<p align="left">
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusCatarucci&theme=tokyonight" alt="Status Detalhado" style="padding-right: 10px;" />
+  <img height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusCatarucci&theme=tokyonight" alt="Gráfico de Pizza" />
 </p>
