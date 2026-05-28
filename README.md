@@ -1,39 +1,8 @@
-# 👩🏻‍💻 Matheus Catarucci
+# 👨‍💻 Matheus Catarucci
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Matheus Catarucci, tenho 17 anos e sou natural de São Paulo. Concluí o ensino médio no SESI, com o curso técnico em Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho algumas curiosidades através do [meu canal do youtube](https://www.youtube.com/@matheus_senai), onde mostro projetos web. Além das redes sociais como o [Instagram](https://www.instagram.com/thuezin15._/).
-
-<p align="left">
-    <a href="https://www.youtube.com/@matheus_senai?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@matheus_senai">
-        <img 
-            alt="youtube views" 
-            title="Visualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
-    <a href="https://github.com/MatheusCatarucci?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MatheusCatarucci?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MatheusCatarucci?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MatheusCatarucci?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+Me chamo Matheus Catarucci, tenho 17 anos e sou natural de Jundiaí-SP. Concluí o ensino médio no SESI em conjunto com o curso técnico em Desenvolvimento de Sistemas no SENAI. Sou apaixonado por tecnologia e compartilho alguns dos meus projetos web e curiosidades no [meu canal do YouTube](https://www.youtube.com/@matheus_senai). Você também pode me encontrar no [Instagram](https://www.instagram.com/thuezin15._/).
 
 ---
 
@@ -61,15 +30,6 @@ Me chamo Matheus Catarucci, tenho 17 anos e sou natural de São Paulo. Concluí 
 ### 📊 Estatísticas
 
 <p align="left">
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusCatarucci&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCatarucci&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=matheuscatarucci&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats" style="padding-right: 10px;" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheuscatarucci&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" alt="Top Langs" />
 </p>
